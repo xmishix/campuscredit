@@ -1,0 +1,30 @@
+{
+  "name": "campuscredit-hardhat-starter",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "scripts": {
+    "compile": "hardhat compile",
+    "node": "hardhat node",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "interact:local": "hardhat run scripts/interact.js --network localhost",
+    "analyze:local": "hardhat run scripts/analyze.js --network localhost",
+    "test": "hardhat test"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.6.1",
+    "hardhat": "^2.26.3"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.4.0"
+  },
+  "description": "Local-first Hardhat project for deploying an ERC-20 (CampusCredit), running transactions, and analyzing receipts & events.",
+  "main": "hardhat.config.js",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
