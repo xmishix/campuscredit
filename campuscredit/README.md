@@ -1,3 +1,12 @@
+# DIDLab Activity 2
+
+📄 See the full report here: [Reaport.md](Reaport.md)
+
+
+
+
+---
+
 # CampusCredit Hardhat Starter
 
 Local-first Hardhat project for deploying an ERC-20 (CampusCredit), running transactions, and analyzing receipts & events.
