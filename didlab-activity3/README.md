@@ -1,3 +1,9 @@
+# DIDLab Activity 3
+
+📄 See the full report here: [REPORT.md](REPORT.md)
+
+---
+
 # Sample Hardhat 3 Beta Project (`node:test` and `viem`)
 
 This project showcases a Hardhat 3 Beta project using the native Node.js test runner (`node:test`) and the `viem` library for Ethereum interactions.
