@@ -1,6 +1,6 @@
 # DIDLab Activity 2
 
-📄 See the full report here: [Reaport.md](Reaport.md)
+📄 See the full report here: [Report.md](Report.md)
 
 
 
